@@ -115,7 +115,7 @@
 		          <webResources>
 		            <resource>
 		              <!--  this is relative to the pom.xml directory -->
-		              <directory>src\main\webapp\jsp</directory>
+		              <directory>src/main/webapp/jsp</directory>
 		              <!-- the list has a default value of ** -->
 		              <includes>
 		                <include>**/*.jsp</include>
